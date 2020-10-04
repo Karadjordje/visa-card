@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/visa-card/static/css/main.511ec872.chunk.css",
+    "main.js": "/visa-card/static/js/main.865bb9af.chunk.js",
+    "main.js.map": "/visa-card/static/js/main.865bb9af.chunk.js.map",
+    "runtime-main.js": "/visa-card/static/js/runtime-main.99070332.js",
+    "runtime-main.js.map": "/visa-card/static/js/runtime-main.99070332.js.map",
+    "static/js/2.f4788ea8.chunk.js": "/visa-card/static/js/2.f4788ea8.chunk.js",
+    "static/js/2.f4788ea8.chunk.js.map": "/visa-card/static/js/2.f4788ea8.chunk.js.map",
+    "index.html": "/visa-card/index.html",
+    "precache-manifest.60be73fa24165c7263fbf37337e8ebda.js": "/visa-card/precache-manifest.60be73fa24165c7263fbf37337e8ebda.js",
+    "service-worker.js": "/visa-card/service-worker.js",
+    "static/css/main.511ec872.chunk.css.map": "/visa-card/static/css/main.511ec872.chunk.css.map",
+    "static/js/2.f4788ea8.chunk.js.LICENSE.txt": "/visa-card/static/js/2.f4788ea8.chunk.js.LICENSE.txt",
+    "static/media/chip.png": "/visa-card/static/media/chip.c993dbe1.png",
+    "static/media/master-card.png": "/visa-card/static/media/master-card.feb5c662.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99070332.js",
+    "static/js/2.f4788ea8.chunk.js",
+    "static/css/main.511ec872.chunk.css",
+    "static/js/main.865bb9af.chunk.js"
+  ]
+}
