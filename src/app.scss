@@ -1,0 +1,75 @@
+.app {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 55px;
+
+    &__title {
+        font-size: 30px;
+        font-weight: 500;
+        margin: 0;
+    }
+}
+
+.card-update {
+    margin: 55px auto 0;
+    width: 400px;
+
+    &__btn {
+        color: #fff;
+        font-size: 16px;
+        height: 38px;
+        width: 100%;
+        border: none;
+        border-radius: 4px;
+        background: rgb(0, 123, 255);
+        margin-bottom: 40px;
+
+        &:hover {
+            background: rgb(0, 105, 217);
+        }
+
+        &:disabled {
+            background: gray;
+        }
+    }
+}
+
+.input-wrapper {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 18px;
+
+    &:last-of-type {
+        margin-bottom: 45px;
+    }
+
+    &__label {
+        font-size: 16px;
+        line-height: 24px;
+        margin-bottom: 15px;
+    }
+
+    &__input {
+        border: 1px solid rgb(206, 212, 218);
+        border-radius: 4px;
+        height: 38px;
+        padding: 0 12px;
+    }
+
+    &__error {
+        color: rgb(220, 53, 69);
+        font-size: 16px;
+        line-height: 20px;
+        font-weight: 500;
+    }
+
+    &__multiple {
+        display: flex;
+        justify-content: space-between;
+
+        input {
+            width: 80px;
+        }
+    }
+}

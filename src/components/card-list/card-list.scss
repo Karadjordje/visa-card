@@ -1,0 +1,14 @@
+.card-list {
+    width: 850px;
+
+    &__title {
+        font-size: 32px;
+        text-align: center;
+    }
+
+    &__cards {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+}
